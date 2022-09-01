@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1C01D0F628C0CA5000ECFFA8 /* RecipeFeaturedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C01D0F528C0CA5000ECFFA8 /* RecipeFeaturedView.swift */; };
 		1C19723E28BCE2960042127F /* RecipeTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C19723D28BCE2960042127F /* RecipeTabView.swift */; };
 		1C25208328B67BD100F0AE7D /* Recipe_listApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C25208228B67BD100F0AE7D /* Recipe_listApp.swift */; };
 		1C25208528B67BD100F0AE7D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C25208428B67BD100F0AE7D /* ContentView.swift */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1C01D0F528C0CA5000ECFFA8 /* RecipeFeaturedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeFeaturedView.swift; sourceTree = "<group>"; };
 		1C19723D28BCE2960042127F /* RecipeTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeTabView.swift; sourceTree = "<group>"; };
 		1C25207F28B67BD100F0AE7D /* Recipe_list.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Recipe_list.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1C25208228B67BD100F0AE7D /* Recipe_listApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Recipe_listApp.swift; sourceTree = "<group>"; };
@@ -95,6 +97,7 @@
 			isa = PBXGroup;
 			children = (
 				1C19723D28BCE2960042127F /* RecipeTabView.swift */,
+				1C01D0F528C0CA5000ECFFA8 /* RecipeFeaturedView.swift */,
 				1C25208428B67BD100F0AE7D /* ContentView.swift */,
 				1C4EC0C828B7883100B553CB /* RecipeDetailView.swift */,
 			);
@@ -202,6 +205,7 @@
 				1C25208528B67BD100F0AE7D /* ContentView.swift in Sources */,
 				1C25208328B67BD100F0AE7D /* Recipe_listApp.swift in Sources */,
 				1C25209C28B6B77E00F0AE7D /* DataService.swift in Sources */,
+				1C01D0F628C0CA5000ECFFA8 /* RecipeFeaturedView.swift in Sources */,
 				1C19723E28BCE2960042127F /* RecipeTabView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
