@@ -13,6 +13,7 @@ struct Recipe_listApp: App {
         WindowGroup {
 //            ContentView()
             RecipeTabView()
+                .environmentObject(RecipeModel())
         }
     }
 }
