@@ -11,7 +11,7 @@ struct RecipeTabView: View {
     var body: some View {
         
         
-        TabView {
+        TabView() {
             
             Text("Featured View")
             
